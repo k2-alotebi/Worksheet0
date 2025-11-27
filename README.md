@@ -108,11 +108,17 @@ Example:
 * `tictactoe.c` — TicTacToe logic
 * `tictactoe.h` — header file
 * `main.c` — contains `main()` for TicTacToe
+  
 Win case
+
 <img width="981" height="969" alt="Screenshot 2025-11-27 094136" src="https://github.com/user-attachments/assets/a0ed0870-8c42-4337-a101-f20fd033b147" />
+
 Draw case
+
 <img width="515" height="182" alt="Screenshot 2025-11-27 094146" src="https://github.com/user-attachments/assets/31933631-0a0c-4a47-9066-7f217014612b" />
+
 Invalid Case 
+
 <img width="713" height="391" alt="Screenshot 2025-11-27 094153" src="https://github.com/user-attachments/assets/5cd31288-c2db-422d-b1cf-ab1c02b0d9c7" />
 
 
@@ -122,8 +128,4 @@ Invalid Case
 
 ## GitHub Repository
 
-[https://github.com/k2-alotebi/ufcfwk15-worksheet2-part1](https://github.com/k2-alotebi/ufcfwk15-worksheet2-part1)
-
-```
-
-
+https://github.com/k2-alotebi/os-worksheets
